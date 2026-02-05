@@ -1,6 +1,9 @@
 # 💫 About Me
 
-<img align="middle" src="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="20%"  />
+<p align="center">
+  <img src="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="20%" />
+</p>
+
 
 Hey, I’m **Manik** 👋  
 🎓 BCA student | 📊 Aspiring Data / BI Analyst 
@@ -61,7 +64,7 @@ _(More projects coming as I build and refine them.)_
 ---
 
 ## 💻 Core Skills
-<img align="right" src="skills.gif" width="200" />
+<img align="right" src="skills.gif" width="160" />
 
 
 ### 🔥 Strongest
