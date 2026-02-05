@@ -29,7 +29,7 @@ I also like exploring **small product-style ideas** and system flows that solve 
 ---
 
 ## 🧠 Featured Project
-<img align="right" src="workspace.gif" width="200" />
+<img align="right" src="workspace.gif" width="160" />
 
 📌 **Customer, Order & Return Performance Dashboard (Power BI)**  
 - Built an end-to-end dashboard using business-style data  
