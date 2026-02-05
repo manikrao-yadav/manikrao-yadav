@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="50%" />
 
 Hey, I’m **Manik** 👋  
 🎓 BCA student | 📊 Aspiring Data / BI Analyst 
