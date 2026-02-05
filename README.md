@@ -16,7 +16,7 @@ I also like exploring **small product-style ideas** and system flows that solve 
 ---
 
 ## 🎯 Current Focus
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVubmt0ZTBtbDA0M3UzOHliemw0ZWc3dmxlYXlranUxbXM1MDd2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDYADzX16SrEk/giphy.gif" width="130"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVubmt0ZTBtbDA0M3UzOHliemw0ZWc3dmxlYXlranUxbXM1MDd2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDYADzX16SrEk/giphy.gif" width="100"/>
 
 - Building **Power BI dashboards** with meaningful KPIs  
 - Strengthening **Excel, SQL, and data analysis fundamentals** for placements  
