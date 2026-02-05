@@ -33,19 +33,6 @@ _(More projects coming as I build and refine them.)_
 
 ---
 
-## 💻 Core Skills
-
-### 🔥 Strongest
-- **Power BI** (Dashboards, KPIs, Data Modeling, Visual Storytelling)
-
-### 🛠 Working Knowledge
-- **Excel** (Data cleaning, analysis, charts, basic dashboards)  
-- **SQL**  
-- **Python** (Pandas, NumPy)  
-- **EDA & Data Visualization** (Matplotlib)
-
----
-
 ## 🛠 Skill Stack
 
 ### 📊 Data & Analytics
@@ -68,6 +55,18 @@ _(More projects coming as I build and refine them.)_
 
 🤖 I often use **AI tools to learn faster, prototype ideas, and unblock myself**, while ensuring I understand what I’m building instead of blindly copying.
 
+---
+
+## 💻 Core Skills
+
+### 🔥 Strongest
+- **Power BI** (Dashboards, KPIs, Data Modeling, Visual Storytelling)
+
+### 🛠 Working Knowledge
+- **Excel** (Data cleaning, analysis, charts, basic dashboards)  
+- **SQL**  
+- **Python** (Pandas, NumPy)  
+- **EDA & Data Visualization** (Matplotlib)
 ---
 
 ## 📊 GitHub Stats
