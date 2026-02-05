@@ -23,6 +23,9 @@ I also like exploring **small product-style ideas** and system flows that solve 
 - Working with **real datasets**, not just tutorial data  
 - Exploring **product ideas + data-driven validation**
 
+
+
+
 ---
 
 ## 🧠 Featured Project
