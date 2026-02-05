@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img src="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="20%"  />
+<img align="middle" src="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="20%"  />
 
 Hey, I’m **Manik** 👋  
 🎓 BCA student | 📊 Aspiring Data / BI Analyst 
@@ -23,6 +23,8 @@ I also like exploring **small product-style ideas** and system flows that solve 
 ---
 
 ## 🧠 Featured Project
+<img align="right" src="workspace.gif" width="200" />
+
 📌 **Customer, Order & Return Performance Dashboard (Power BI)**  
 - Built an end-to-end dashboard using business-style data  
 - Designed KPIs for customer behavior, order trends, and return analysis  
@@ -34,6 +36,7 @@ _(More projects coming as I build and refine them.)_
 ---
 
 ## 🛠 Skill Stack
+<img align="right" src="216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="260" />
 
 ### 📊 Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -58,6 +61,8 @@ _(More projects coming as I build and refine them.)_
 ---
 
 ## 💻 Core Skills
+<img align="right" src="skills.gif" width="200" />
+
 
 ### 🔥 Strongest
 - **Power BI** (Dashboards, KPIs, Data Modeling, Visual Storytelling)
