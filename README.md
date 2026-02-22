@@ -32,7 +32,7 @@ I also like exploring **small product-style ideas** and system flows that solve 
 ## 🧠 Featured Project
 <img align="right" src="workspace.gif" width="160" />
 
-📌 **Customer, Order & Return Performance Dashboard (Power BI)**  
+📌 **Customer, Order & Return Performance Dashboard (Power BI)**  [Direct Link](https://github.com/manikrao-yadav/Customer_Order_and_Return-Performance_Dashboard-PowerBI-)
 - Built an end-to-end dashboard using business-style data  
 - Designed KPIs for customer behavior, order trends, and return analysis  
 - Focused on clarity, insights, and decision-making  
