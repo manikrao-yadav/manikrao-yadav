@@ -75,8 +75,8 @@ _(More projects coming as I build and refine them.)_
 - **Power BI** (Dashboards, KPIs, Data Modeling, Visual Storytelling)
 
 ### 🛠 Working Knowledge
+- **SQL**  (Window Functions)
 - **Excel** (Data cleaning, analysis, charts, basic dashboards)  
-- **SQL**  
 - **Python** (Pandas, NumPy)  
 - **EDA & Data Visualization** (Matplotlib)
 ---
