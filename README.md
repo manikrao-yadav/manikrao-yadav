@@ -79,12 +79,6 @@ _(More projects coming as I build and refine them.)_
 - **Excel** (Data cleaning, analysis, charts, basic dashboards)  
 - **Python** (Pandas, NumPy)  
 - **EDA & Data Visualization** (Matplotlib)
----
-
-##  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=manikrao-yadav&theme=dark&hide_border=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=manikrao-yadav&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikrao-yadav&theme=dark&hide_border=false&layout=compact)
 
 ---
 
