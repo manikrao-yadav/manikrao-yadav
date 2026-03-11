@@ -1,4 +1,3 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 # 💫 About Me
 
 <p align="center">
@@ -6,7 +5,7 @@
 </p>
 
 
- I’m **Manik** 👋  
+ I’m **Manik**   
  BCA student |  Aspiring Data / BI Analyst 
 
 I work with **real-world datasets** and enjoy turning raw, messy data into **clear visual dashboards** that are easy to understand and useful for decision-making.  
